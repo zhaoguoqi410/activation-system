@@ -1,0 +1,31 @@
+{
+  "keys": [
+    {
+      "key": "MONTHA1B2C3D4E5F6",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2024-12-31",
+      "create_date": "2024-01-01"
+    },
+    {
+      "key": "YEARX1Y2Z3A4B5C6",
+      "type": "年卡", 
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-01-01",
+      "create_date": "2024-01-01"
+    },
+    {
+      "key": "FOREVERM1N2O3P4Q5",
+      "type": "永久卡",
+      "status": "active", 
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "forever",
+      "create_date": "2024-01-01"
+    }
+  ]
+}
