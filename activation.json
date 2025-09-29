@@ -1,15 +1,3 @@
 {
-  "keys": [
-    {
-      "key": "FOREVEREXEOU0927",
-      "type": "永久卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "E73E67DCDE4372DD"
-      ],
-      "expire_date": "forever",
-      "create_date": "2025-09-29"
-    }
-  ]
+  "keys": []
 }
