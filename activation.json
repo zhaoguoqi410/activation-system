@@ -26,6 +26,15 @@
       "used_devices": [],
       "expire_date": "2025-10-29",
       "create_date": "2025-09-29"
+    },
+    {
+      "key": "FOREVER236N10819",
+      "type": "永久卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "forever",
+      "create_date": "2025-09-29"
     }
   ]
 }
