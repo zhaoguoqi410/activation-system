@@ -21,6 +21,15 @@
       ],
       "expire_date": "2025-10-29",
       "create_date": "2025-09-29"
+    },
+    {
+      "key": "MONTHPCP9A760848",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-10-29",
+      "create_date": "2025-09-29"
     }
   ]
 }
