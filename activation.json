@@ -30,7 +30,7 @@
     {
       "key": "FOREVER236N10819",
       "type": "永久卡",
-      "status": "active",
+      "status": "disabled",
       "max_devices": 1,
       "used_devices": [],
       "expire_date": "forever",
