@@ -12,7 +12,7 @@
     {
       "key": "MONTHJ29KGRT0883",
       "type": "月卡",
-      "status": "active",
+      "status": "disabled",
       "max_devices": 1,
       "used_devices": [],
       "expire_date": "2025-10-29",
