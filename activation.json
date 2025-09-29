@@ -102,7 +102,7 @@
     {
       "key": "MONTHDULB5LS0897",
       "type": "月卡",
-      "status": "disabled",
+      "status": "active",
       "max_devices": 1,
       "used_devices": [],
       "expire_date": "2025-10-29",
