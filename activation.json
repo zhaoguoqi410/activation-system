@@ -84,7 +84,7 @@
     {
       "key": "MONTH7EIV61Z0866",
       "type": "月卡",
-      "status": "active",
+      "status": "disabled",
       "max_devices": 1,
       "used_devices": [],
       "expire_date": "2025-10-29",
