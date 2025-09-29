@@ -1,15 +1,6 @@
 {
   "keys": [
     {
-      "key": "MONTHHVZN1XD0921",
-      "type": "月卡",
-      "status": "disabled",
-      "max_devices": 1,
-      "used_devices": [],
-      "expire_date": "2025-10-29",
-      "create_date": "2025-09-29"
-    },
-    {
       "key": "MONTH91DY39P0841",
       "type": "月卡",
       "status": "disabled",
