@@ -21,6 +21,15 @@
       ],
       "expire_date": "2025-10-31",
       "create_date": "2025-10-01"
+    },
+    {
+      "key": "YEARLNDBYXBN0914",
+      "type": "年卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2026-10-01",
+      "create_date": "2025-10-01"
     }
   ]
 }
