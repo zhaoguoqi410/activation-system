@@ -43,6 +43,15 @@
       ],
       "expire_date": "2025-10-31",
       "create_date": "2025-10-01"
+    },
+    {
+      "key": "MONTH56CZUJV0899",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-11-01",
+      "create_date": "2025-10-02"
     }
   ]
 }
