@@ -1,15 +1,3 @@
 {
-  "keys": [
-    {
-      "key": "YEARLNDBYXBN0914",
-      "type": "年卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "E73E67DCDE4372DD"
-      ],
-      "expire_date": "2026-10-01",
-      "create_date": "2025-10-01"
-    }
-  ]
+  "keys": []
 }
