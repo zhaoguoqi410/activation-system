@@ -54,6 +54,15 @@
       ],
       "expire_date": "2025-11-01",
       "create_date": "2025-10-02"
+    },
+    {
+      "key": "MONTHOO7GV440864",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-11-01",
+      "create_date": "2025-10-02"
     }
   ]
 }
