@@ -12,17 +12,6 @@
       "create_date": "2025-10-01"
     },
     {
-      "key": "MONTHDASFAOD0888",
-      "type": "月卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "FE4AC89C09006BB8"
-      ],
-      "expire_date": "2025-10-31",
-      "create_date": "2025-10-01"
-    },
-    {
       "key": "FOREVERZJJM40904",
       "type": "永久卡",
       "status": "active",
