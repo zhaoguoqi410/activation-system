@@ -21,17 +21,6 @@
       ],
       "expire_date": "forever",
       "create_date": "2025-10-01"
-    },
-    {
-      "key": "MONTHL867CDT0850",
-      "type": "月卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "E73E67DCDE4372DD"
-      ],
-      "expire_date": "2025-11-01",
-      "create_date": "2025-10-02"
     }
   ]
 }
