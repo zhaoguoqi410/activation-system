@@ -21,15 +21,6 @@
       ],
       "expire_date": "forever",
       "create_date": "2025-10-01"
-    },
-    {
-      "key": "YEARCLPSTK6J0898",
-      "type": "年卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [],
-      "expire_date": "2026-10-02",
-      "create_date": "2025-10-02"
     }
   ]
 }
