@@ -1,17 +1,6 @@
 {
   "keys": [
     {
-      "key": "MONTH6N7WHU80877",
-      "type": "月卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "B37275252C2299F5"
-      ],
-      "expire_date": "2025-10-31",
-      "create_date": "2025-10-01"
-    },
-    {
       "key": "FOREVERZJJM40904",
       "type": "永久卡",
       "status": "active",
