@@ -30,6 +30,15 @@
       "used_devices": [],
       "expire_date": "2025-11-01",
       "create_date": "2025-10-02"
+    },
+    {
+      "key": "YEARCLPSTK6J0898",
+      "type": "年卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2026-10-02",
+      "create_date": "2025-10-02"
     }
   ]
 }
