@@ -43,6 +43,15 @@
       ],
       "expire_date": "2025-11-02",
       "create_date": "2025-10-02"
+    },
+    {
+      "key": "MONTHPIXRAJW0939",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-11-03",
+      "create_date": "2025-10-03"
     }
   ]
 }
