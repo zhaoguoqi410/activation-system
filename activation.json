@@ -54,6 +54,15 @@
       ],
       "expire_date": "2025-11-03",
       "create_date": "2025-10-03"
+    },
+    {
+      "key": "MONTHAKEMIF00867",
+      "type": "月卡",
+      "status": "active",
+      "max_devices": 1,
+      "used_devices": [],
+      "expire_date": "2025-11-04",
+      "create_date": "2025-10-04"
     }
   ]
 }
