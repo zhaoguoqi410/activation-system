@@ -16,7 +16,9 @@
       "type": "月卡",
       "status": "active",
       "max_devices": 1,
-      "used_devices": [],
+      "used_devices": [
+        "5502786F356EBD83"
+      ],
       "expire_date": "2026-01-01",
       "create_date": "2025-12-01"
     }
