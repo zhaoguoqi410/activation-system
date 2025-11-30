@@ -12,17 +12,6 @@
       "create_date": "2025-10-01"
     },
     {
-      "key": "MONTHVFH7LJR0905",
-      "type": "月卡",
-      "status": "active",
-      "max_devices": 1,
-      "used_devices": [
-        "FE4AC89C09006BB8"
-      ],
-      "expire_date": "2025-11-02",
-      "create_date": "2025-10-02"
-    },
-    {
       "key": "MONTHUZBRH6C0906",
       "type": "月卡",
       "status": "active",
